@@ -1,0 +1,6 @@
+lore.txt
+*.log
+archive
+*.pyc
+*/*.pyc
+*/*/*.pyc
